@@ -1,3 +1,5 @@
-console.log("Hello there! i am js")
+let Hello = console.log("Hello There! i am js")
 
-console.log(    );
+
+// console.log(Hello);  
+// console.log(window);

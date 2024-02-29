@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "``Nodejs \r   Express.js\r   Ejs\r   Mongodb\r   Mysql Database\r   GraphQL__Learning\r  ``",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+
+  },
+  "author": "saurabh kumar",
+  "license": "ISC"
+}

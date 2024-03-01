@@ -10,10 +10,10 @@ const { add , sub } =require('./math')
 
 // console.log(add(5,6));     // destructuring the function of add and sub.
 // console.log(sub(19,20));
-
 // let Hello = console.log("Hello There! i am js")
-
 // console.log(math);
 // console.log(math(3, 4))
 // console.log(Hello); 
 // console.log(window);
+
+

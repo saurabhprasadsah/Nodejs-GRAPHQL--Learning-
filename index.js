@@ -1,5 +1,6 @@
 //index
-const { add , sub } =require('./math')
+// const math =require('./math')
+// console.log("math value is", math);
 
 // this is the normal export the module function of math but also exports this method!
 // const math = require('./math');
@@ -15,5 +16,12 @@ const { add , sub } =require('./math')
 // console.log(math(3, 4))
 // console.log(Hello); 
 // console.log(window);
+
+
+
+
+
+
+
 
 

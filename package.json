@@ -8,6 +8,6 @@
     "start": "node index.js"
 
   },
-  "author": "saurabh kumar",
+  "author":"saurabh kumar",
   "license": "ISC"
 }

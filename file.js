@@ -44,9 +44,3 @@ fs.mkdirSync('my-docs/a/b', {recursive: true})
 
 
 
-
-
-
-
-
-

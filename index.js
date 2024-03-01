@@ -1,4 +1,9 @@
 //index
+
+
+
+
+// this is the normal export the module function of math but also exports this method!
 const math = require('./math');
 
 console.log(math); //
